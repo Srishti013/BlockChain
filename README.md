@@ -1,4 +1,4 @@
 # BlockChain
 
 * [Introduction](/introduction/readme.md)
-    - [Cryptography](/introduction/cryptography.md)
+    - [Cryptography](/introduction/Cryptography.md)
