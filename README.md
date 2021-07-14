@@ -4,3 +4,4 @@
     - [Cryptography](/introduction/Cryptography.md)
     - [Transparency](/introduction/Transparency.md)
     - [Smart Contracts](/introduction/Smart_contracts.md)
+    - [Blockchain Security](introduction/security.md)
